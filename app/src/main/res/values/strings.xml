@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CocktailAppUi</string>
+    <string name="categories">Categories</string>
+    <string name="recent_mixes">Recent Mixes</string>
 </resources>
